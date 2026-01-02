@@ -16,8 +16,6 @@
 Aplicación de consola en **Java** para administrar mascotas y sus microchips asociados.  
 El sistema implementa un CRUD completo para ambas entidades utilizando JDBC, DAOs genéricos, servicios y modelos basados en una clase común (`Base`).
 
-- Video: [Link al video](https://drive.google.com/file/d/135NF46A1rUApy4GkDjBtRxWzRM2l851-/view?usp=drive_link)
-
 ## Estructura del proyecto
 
 ```sh
