@@ -1,4 +1,4 @@
-# Programación II - Trabajo Integrador
+# Trabajo Integrador - Mascota-Microchip
 
 ## índice 
 - [Proyecto: estructura](#estructura-del-proyecto)
